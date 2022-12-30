@@ -1,0 +1,6 @@
+node_module
+git
+package-lock.json
+.git
+.vscode
+.gitignore
